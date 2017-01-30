@@ -1,0 +1,3 @@
+GET  /subIndex  @main.controllers.MainController.subIndex()
+
+->  /sub  sub.Routes
